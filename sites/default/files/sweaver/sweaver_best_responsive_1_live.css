@@ -1,0 +1,12 @@
+.field-item p {
+  font-size: 26px;
+  line-height: 42px;
+  font-weight: bold;
+  font-family: 'Palatino Linotype',Palatino,Serif;
+  text-align: center;
+}
+
+li a {
+  font-size: 29px;
+}
+
