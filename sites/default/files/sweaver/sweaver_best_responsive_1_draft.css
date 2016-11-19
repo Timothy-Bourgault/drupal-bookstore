@@ -10,3 +10,12 @@ li a {
   font-size: 29px;
 }
 
+h2 span {
+  font-size: 31px;
+  font-family: Tahoma,Geneva,Sans-Serif;
+}
+
+.content p {
+  font-size: 15px;
+}
+
